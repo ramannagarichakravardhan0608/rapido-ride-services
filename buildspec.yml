@@ -11,5 +11,4 @@ phases:
       - echo "Preparing deployment artifacts..."
 
 artifacts:
-  files:
-    - '**/*'
+  fil
