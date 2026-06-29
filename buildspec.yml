@@ -1,0 +1,17 @@
+```yaml
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "Installing dependencies..."
+
+  build:
+    commands:
+      - echo "Build started..."
+      - echo "Preparing deployment artifacts..."
+
+artifacts:
+  files:
+    - '**/*'
+```
