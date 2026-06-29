@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+```yaml
+>>>>>>> f071220 (Fix buildspec.yml)
 version: 0.2
 
 phases:
